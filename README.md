@@ -14,4 +14,4 @@ First enable Accessibility Control in System Prefs for
   
 Place the scripts on the desktop, then run the SyphonRec.maxpat example patch in repo
 
-![SyphonREC Max Patch](https://raw.githubusercontent.com/JCurtisRMIT/SyphonRec/SyphonREC.png)
+![SyphonREC Max Patch](SyphonREC.png)
