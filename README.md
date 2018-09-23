@@ -3,8 +3,8 @@ Apple scripts for automating <b>Syphon Recorder</b> https://github.com/Syphon
 
 Apple scripts for 
 
-"Record" and 
-"Stop Recording" 
+"<b>Record</b>" and 
+"<b>Stop Recording</b>" 
 
 Useful for automating Syphon in another app like MaxMSP (till OSC controls arrive)
 
