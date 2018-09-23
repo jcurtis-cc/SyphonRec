@@ -16,6 +16,5 @@ First enable Accessibility Control in System Prefs for
   - MaxMSP
   - Terminal
   - Syphon Recorder
-  - Script Editor
   
-Place the scripts on the desktop, then run the example patch in repo
+Place the scripts on the desktop, then run the SyphonRec.maxpat example patch in repo
