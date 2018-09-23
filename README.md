@@ -13,3 +13,5 @@ First enable Accessibility Control in System Prefs for
   - Syphon Recorder
   
 Place the scripts on the desktop, then run the SyphonRec.maxpat example patch in repo
+
+![alt text](https://raw.githubusercontent.com/JCurtisRMIT/SyphonRec/edit/master/SyphonREC.png)
